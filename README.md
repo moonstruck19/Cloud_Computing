@@ -1,3 +1,3 @@
 # khansaAmrouni.github.io
-this is my website 
-trying to present my humble work experience and skills that i learned during my university studies 
+my website created with GitHub pages 
+presenting my work experience and skills that i learned during my university studies and internships
