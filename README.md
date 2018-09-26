@@ -1,6 +1,6 @@
 # khansa AMROUNI
 
-#######  [khansaAmrouni.github.io] (https://khansaamrouni.github.io/)
+####  [khansaAmrouni.github.io] (https://khansaamrouni.github.io/)
 
 
 khansa AMROUNI is currently a software Engineering student, developer, forward thinker, and lifelong learner.
